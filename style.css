@@ -1,0 +1,16 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 300;
+}
+
+.result {
+    font-family: 'Teko', sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+
+.block {
+    pointer-events: none;
+}
